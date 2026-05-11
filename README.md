@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey, I'm Bryan 👋
 
-<!--
-**Bryan-tech-coder/Bryan-tech-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer Student from Puerto Rico
 
-Here are some ideas to get you started:
+I enjoy building backend systems, automation tools, and solving complex problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+- Python
+- JavaScript (ES6)
+- C
+- MongoDB
+- SQL
+- Linux
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Async Python
+- Backend Architecture
+- APIs & Databases
+- System Design
+
+---
+
+## 📌 Featured Projects
+
+- Shell implementation in C
+- Sorting algorithms
+- Binary trees
+- Async Python exercises
+- JavaScript ES6 data manipulation
+
+---
+
+## 📊 GitHub Stats
+
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-tech-coder&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-tech-coder&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/bryan-ramos-6148943a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios
